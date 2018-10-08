@@ -1,2 +1,0 @@
-# upk
-Aplikasi UPK
